@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Home
+title: Welcome
 ---
 
-# Welcome to Minh's Terminal
+# Hi, I'm Minh
 
-Type your way around.  
-This site uses the **Jekyll Console Theme** for a retro interactive feel.
+Behavioral Data Science intern with a passion for UX, AI, and building things that feel good to use.
+
+This site is my little terminal on the internet — type your way around and explore my work.
