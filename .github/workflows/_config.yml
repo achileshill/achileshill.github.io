@@ -2,6 +2,10 @@ title: Minh’s Terminal
 description: Interactive console-style site
 
 remote_theme: b2a3e8/jekyll-theme-console
-# Optional but recommended
+
 plugins:
   - jekyll-seo-tag
+  - jekyll-remote-theme
+
+header_pages:
+  - index.md
