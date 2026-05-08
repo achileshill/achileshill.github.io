@@ -1,9 +1,7 @@
-title: Minh’s Site
-description: My GitHub Pages + Jekyll test site
+title: Minh’s Terminal
+description: Interactive console-style site
 
-theme: jekyll-theme-console
+remote_theme: b2a3e8/jekyll-theme-console
 
 plugins:
-  - jekyll-theme-console
-
-show_downloads: false
+  - jekyll-remote-theme
