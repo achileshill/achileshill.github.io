@@ -1,5 +1,5 @@
 title: Minh’s Terminal
-description: Interactive console-style site
+description: Behavioral Data Science • UX • AI
 
 remote_theme: b2a3e8/jekyll-theme-console
 
@@ -7,5 +7,9 @@ plugins:
   - jekyll-seo-tag
   - jekyll-remote-theme
 
+style: hacker
+
 header_pages:
-  - index.md
+  - pages/about.md
+  - pages/projects.md
+  - pages/contact.md
