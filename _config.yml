@@ -14,3 +14,5 @@ header_pages:
   - pages/about.md
   - pages/projects.md
   - pages/contact.md
+custom_css:
+  - assets/css/custom.css
