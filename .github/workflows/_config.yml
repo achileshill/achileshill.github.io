@@ -1,5 +1,9 @@
 title: Minh’s Site
 description: My GitHub Pages + Jekyll test site
+
 theme: jekyll-theme-console
+
+plugins:
+  - jekyll-theme-console
 
 show_downloads: false
