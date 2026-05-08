@@ -10,6 +10,7 @@ plugins:
 style: hacker
 
 header_pages:
+  - index.md
   - pages/about.md
   - pages/projects.md
   - pages/contact.md
