@@ -1,3 +1,9 @@
-# Welcome
+---
+layout: default
+title: Home
+---
 
-This site is deployed with GitHub Pages and Jekyll.
+# Welcome to Minh's Terminal
+
+Type your way around.  
+This site uses the **Jekyll Console Theme** for a retro interactive feel.
